@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Табакошка",
+    "aliases": [
+      "Tabakoshka"
+    ],
+    "image": "assets/tabakoshka.png",
+    "url": "https://t.me/c/3557666063/1069/1070",
+    "category": "Аниме"
+  },
+  {
+    "title": "История о перекуре за супермаркетом",
+    "aliases": [],
+    "image": "assets/smoking.png",
+    "url": "https://t.me/c/3557666063/936/1060",
+    "category": "Аниме"
+  },
+  {
+    "title": "Re:Zero. Жизнь с нуля в альтернативном мире",
+    "aliases": [
+      "Re:Zero",
+      "Ре Зеро"
+    ],
+    "image": "assets/rezero.png",
+    "url": "https://t.me/c/3557666063/635/636",
+    "category": "Аниме"
+  },
+  {
+    "title": "Слишком много проигравших героинь",
+    "aliases": [
+      "Makeine"
+    ],
+    "image": "assets/makeine.png",
+    "url": "https://t.me/c/3557666063/1205/1206",
+    "category": "Аниме"
+  },
+  {
+    "title": "Хочу любить тебя до самой смерти",
+    "aliases": [],
+    "image": "assets/kimi-shinu.png",
+    "url": "https://t.me/c/3557666063/1057/1058",
+    "category": "Аниме"
+  }
+]

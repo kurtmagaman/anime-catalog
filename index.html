@@ -27,7 +27,7 @@ h1{font-size:22px;margin:5px 2px 11px}.search{width:100%;border:0;outline:0;bord
 const tg=window.Telegram?.WebApp; tg?.ready(); tg?.expand();
 
 const anime=[
- {title:"Табакошка",img:"assets/tabakoshka.png",topic:1069},
+ {title:"Табакошка",img:"assets/tabakoshka.png",topic:1069,message:1070},
  {title:"История о перекуре за супермаркетом",img:"assets/smoking.png",topic:936},
  {title:"Re:Zero. Жизнь с нуля в альтернативном мире",img:"assets/rezero.png",topic:635},
  {title:"Слишком много проигравших героинь",img:"assets/makeine.png",topic:1205},
@@ -37,9 +37,14 @@ const anime=[
 const chatId="3557666063";
 const grid=document.querySelector("#grid"), empty=document.querySelector("#empty"), q=document.querySelector("#q");
 
-function topicUrl(id){ return `https://t.me/c/${chatId}/${id}`; }
+function topicUrl(id,message){
+  return message
+    ? `https://t.me/c/${chatId}/${id}/${message}`
+    : `https://t.me/c/${chatId}/${id}`;
+}
 function openTopic(id){
-  const url=topicUrl(id);
+  const item=anime.find(a=>a.topic===id);
+const url=topicUrl(id,item?.message);
   if(tg?.openTelegramLink) tg.openTelegramLink(url); else location.href=url;
 }
 function render(filter=""){

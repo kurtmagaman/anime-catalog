@@ -7,6 +7,17 @@
     "image": "assets/studsovet.png",
     "url": "https://t.me/c/3557666063/1679/1680",
     "category": "Аниме"
+	 "badges": ["ongoing"]
+  },
+{
+    "title": "Ты и я — полные противоположности",
+    "aliases": [
+      "Seihantai na Kimi to Boku"
+    ],
+    "image": "assets/seihantai-na-kimi-to-boku.png",
+    "url": "https://t.me/c/3557666063/227/228",
+    "category": "Аниме"
+	"badges": ["ongoing", "recommendation", "new-episodes"]
   },
 {
     "title": "Человек-бензопила",
@@ -16,6 +27,7 @@
     "image": "assets/chainsaw.png",
     "url": "https://t.me/c/3557666063/1665/1667",
     "category": "Аниме"
+	 "badges": ["recommendation"]
   },
 {
     "title": "Моя подруга-олениха Нокотан",
@@ -34,6 +46,7 @@
     "image": "assets/frieren.png",
     "url": "https://t.me/c/3557666063/78/1545",
     "category": "Аниме"
+	 "badges": ["recommendation", "waiting"]
   },
   {
     "title": "Добро пожаловать в класс превосходства",
@@ -43,6 +56,7 @@
     "image": "assets/youkoso.png",
     "url": "https://t.me/c/3557666063/1587/1594",
     "category": "Аниме"
+	 "badges": ["recommendation", "waiting"]
   },
   {
     "title": "Табакошка",
@@ -59,6 +73,7 @@
     "image": "assets/smoking.png",
     "url": "https://t.me/c/3557666063/936/1060",
     "category": "Аниме"
+	"badges": ["recommendation", "waiting"]
   },
   {
     "title": "Re:Zero. Жизнь с нуля в альтернативном мире",
@@ -69,6 +84,7 @@
     "image": "assets/rezero.png",
     "url": "https://t.me/c/3557666063/635/636",
     "category": "Аниме"
+	"badges": ["recommendation"]
   },
   {
     "title": "Слишком много проигравших героинь",
@@ -78,6 +94,7 @@
     "image": "assets/makeine.png",
     "url": "https://t.me/c/3557666063/1205/1217",
     "category": "Аниме"
+	"badges": ["recommendation"]
   },
   {
     "title": "Хочу любить тебя до самой смерти",
@@ -112,6 +129,7 @@
     "image": "assets/grand-blue.png",
     "url": "https://t.me/c/3557666063/886/887",
     "category": "Аниме"
+	"badges": ["ongoing", "new-episodes"]
   },
   {
     "title": "Монстрик Карамелька",
@@ -129,15 +147,7 @@
     "image": "assets/kore-kaite-shine.png",
     "url": "https://t.me/c/3557666063/1092/1093",
     "category": "Аниме"
-  },
-  {
-    "title": "Ты и я — полные противоположности",
-    "aliases": [
-      "Seihantai na Kimi to Boku"
-    ],
-    "image": "assets/seihantai-na-kimi-to-boku.png",
-    "url": "https://t.me/c/3557666063/227/228",
-    "category": "Аниме"
+	"badges": ["recommendation", "waiting"]
   },
   {
     "title": "Незнакомцы в другой жизни",
@@ -165,6 +175,7 @@
     "image": "assets/the-fable.png",
     "url": "https://t.me/c/3557666063/1419/1420",
     "category": "Аниме"
+	"badges": ["recommendation", "waiting"]
   },
   {
     "title": "Убивающая любовь",
@@ -184,6 +195,7 @@
     "image": "assets/your-lie-in-april.png",
     "url": "https://t.me/c/3557666063/1381/1382",
     "category": "Аниме"
+	"badges": ["recommendation"]
   },
   {
     "title": "Инугами и Нэкояма",
@@ -312,6 +324,7 @@
     "image": "assets/koori-no-jouheki.png",
     "url": "https://t.me/c/3557666063/618/619",
     "category": "Аниме"
+	"badges": ["recommendation", "waiting"]
   },
   {
     "title": "Прекрасная вечерняя луна",
@@ -367,5 +380,6 @@
     "image": "assets/kanojo-okarishimasu.png",
     "url": "https://t.me/c/3557666063/799/800",
     "category": "Аниме"
+	"badges": ["waiting"]
   }
 ]

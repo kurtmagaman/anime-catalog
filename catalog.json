@@ -1,4 +1,31 @@
 [
+    {
+    "title": "Ледяная стена",
+    "aliases": [
+      "The Ramparts of Ice",
+      "Koori no Jouheki"
+    ],
+    "image": "assets/koori-no-jouheki.png",
+    "url": "https://t.me/c/3557666063/618/619",
+    "category": "Аниме",
+    "badges": [
+      "recommendation",
+      "new-episodes"
+      "ongoing"
+    ]
+  },  
+  {
+    "title": "Киберпанк: Бегущие по краю",
+    "aliases": [
+      "cyberpunk"
+    ],
+    "image": "assets/cyberpunk.png",
+    "url": "https://t.me/c/3557666063/1729/1730",
+    "category": "Аниме",
+    "badges": [
+      "new-episodes"
+    ]
+  },
   {
     "title": "Даже в студсовете есть косяки",
     "aliases": [
@@ -346,20 +373,6 @@
     "image": "assets/android-first-time.png",
     "url": "https://t.me/c/3557666063/1074/1075",
     "category": "Аниме"
-  },
-  {
-    "title": "Ледяная стена",
-    "aliases": [
-      "The Ramparts of Ice",
-      "Koori no Jouheki"
-    ],
-    "image": "assets/koori-no-jouheki.png",
-    "url": "https://t.me/c/3557666063/618/619",
-    "category": "Аниме",
-    "badges": [
-      "recommendation",
-      "waiting"
-    ]
   },
   {
     "title": "Прекрасная вечерняя луна",

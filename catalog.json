@@ -1,5 +1,18 @@
 [
     {
+    "title": "Свадьба светлячков",
+    "aliases": [
+      "Hotaru no yomeiri",
+    ],
+    "image": "assets/hotaru-no-yomeiri.png",
+    "url": "https://t.me/c/3557666063/1716/1740",
+    "category": "Аниме",
+    "badges": [
+      "new-episodes",
+      "ongoing"
+    ]
+  },  
+    {
     "title": "Ледяная стена",
     "aliases": [
       "The Ramparts of Ice",
@@ -47,9 +60,7 @@
     "url": "https://t.me/c/3557666063/227/228",
     "category": "Аниме",
     "badges": [
-      "ongoing",
-      "recommendation",
-      "new-episodes"
+      "recommendation"
     ]
   },
   {
